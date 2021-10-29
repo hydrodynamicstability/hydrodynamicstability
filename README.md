@@ -2,6 +2,8 @@
 
 Data professional, scholar, critic.
 
+I have an M.S. in applied statistics, M.S. in physics, and Ph.D. in physics from Purdue University.  I have been a biostatistician for the last 20 years.
+
 
 <!--
 **hydrodynamicstability/hydrodynamicstability** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
