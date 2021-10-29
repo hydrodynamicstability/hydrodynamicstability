@@ -1,4 +1,7 @@
-### Hi there 👋
+### Christopher Tong's GitHub site
+
+Data professional, scholar, critic.
+
 
 <!--
 **hydrodynamicstability/hydrodynamicstability** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
