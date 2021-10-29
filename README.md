@@ -2,7 +2,7 @@
 
 Data professional, scholar, critic.
 
-I have an M.S. in applied statistics, M.S. in physics, and Ph.D. in physics from Purdue University.  I have been a biostatistician for the last 20 years.
+I have an M.S. in applied statistics and Ph.D. in physics from Purdue University.  I have been a biostatistician for the last 20 years.
 
 
 <!--
