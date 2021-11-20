@@ -4,7 +4,7 @@ Data professional; scholar; critic.
 
 I have an M.S. in applied statistics and a Ph.D. in physics from Purdue University.  I have been a biostatistician for the last 20 years.
 
-I am a permanent member of the American Physical Society (APS), American Geophysical Union (AGU), International Chinese Statistical Association (ICSA), Mathematical Association of America (MAA), and Society of Industrial and Applied Mathematics (SIAM).  I am currently also a member of the American Meteorological Society (AMS), American Statistical Association (ASA), and American Association for the Advancement of Science (AAAS).
+<!--I am a permanent member of the American Physical Society (APS), American Geophysical Union (AGU), International Chinese Statistical Association (ICSA), Mathematical Association of America (MAA), and Society of Industrial and Applied Mathematics (SIAM).  I am currently also a member of the American Meteorological Society (AMS), American Statistical Association (ASA), and American Association for the Advancement of Science (AAAS).-->
 
 A list of my selected publications and abstracts may be found [here](https://hydrodynamicstability.github.io/publicationlist/).
 
