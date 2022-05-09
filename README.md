@@ -8,7 +8,7 @@ I have an M.S. in applied statistics and a Ph.D. in physics from Purdue Universi
 
 A list of my selected publications and abstracts may be found [here](https://hydrodynamicstability.github.io/publicationlist/).  However, please note that the vast majority of my work (including code) is proprietary and will never be published.
 
-Some perspectives on applied statistics that have influenced my thinking are assembled [here](https://hydrodynamicstability.github.io/Perspectives-on-Applied-Statistics/)
+Some perspectives on applied statistics that have influenced my thinking are assembled [here](https://hydrodynamicstability.github.io/Perspectives-on-Applied-Statistics/).
 
 <!--
 **hydrodynamicstability/hydrodynamicstability** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
