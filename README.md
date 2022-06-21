@@ -10,11 +10,7 @@ A list of my selected publications and abstracts may be found [here](https://hyd
 
 Some perspectives on applied statistics that have influenced my thinking are assembled [here](https://hydrodynamicstability.github.io/Perspectives-on-Applied-Statistics/).
 
-### Is fluid mechanics fundamental?
 
-"Hydrodynamics and magnetohydrodynamics are fundamental, regardless of popular opinion."  -- Eugene N. Parker (1927-2022)\*
-
-\*Quoted in the retrospective by Stuart D. Bale, *Science*, 376:  461 (29 Apr 2022).
 
 
 <!--
