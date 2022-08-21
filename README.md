@@ -11,7 +11,7 @@ A list of my selected publications and abstracts may be found [here](https://hyd
 
 Some perspectives on applied statistics that have influenced my thinking are assembled [here](https://hydrodynamicstability.github.io/Perspectives-on-Applied-Statistics/).
 
-I consider myself a follower of Daniel, not Jacob, Bernoulli:-)
+I consider myself a follower of Daniel, not Jacob, Bernoulli :-)
 
 
 
