@@ -11,6 +11,8 @@ A list of my selected publications and abstracts may be found [here](https://hyd
 
 Some perspectives on applied statistics that have influenced my thinking are assembled [here](https://hydrodynamicstability.github.io/Perspectives-on-Applied-Statistics/).
 
+Some notes on a presentation I gave on "Andrew Carnegie: Forerunner of Business Analytics" at the *Nevada Statistics Seminar* (March, 2022) are found [here](https://hydrodynamicstability.github.io/AndrewCarnegie/).
+
 I consider myself a follower of Daniel, not Jacob, Bernoulli :-)
 
 
