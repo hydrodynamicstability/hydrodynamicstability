@@ -15,7 +15,16 @@ Some perspectives on applied statistics that have influenced my thinking are ass
 
 I consider myself a follower of Daniel, not Jacob, Bernoulli :-)
 
+______________________________________________________________________________________________________________________________________
 
+"Let us strive to provide equal opportunities to *all* so that they can engage in the creation of Physics and science for the benefit of all mankind."
+
+-- Abdus Salam, Nobel Prize [banquet speech](https://www.nobelprize.org/prizes/physics/1979/salam/speech/), Dec. 10, 1979.
+
+"If we stop teaching, learning, it is like we are dead.  I want to be alive.  If this is a crime, I want to commit it."
+
+-- Unnamed teacher at a secret, illegal school for girls, Kabul, Afghanistan
+(quoted in an article by Saeed Shah, *Wall Street Journal*, March 22, 2023)
 
 <!--
 **hydrodynamicstability/hydrodynamicstability** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
