@@ -9,7 +9,7 @@ I have an M.S. in applied statistics and a Ph.D. in physics from Purdue Universi
 
 A list of my selected publications and abstracts may be found [here](https://hydrodynamicstability.github.io/publicationlist/).  However, please note that the vast majority of my work (including code) is proprietary and will never be published.
 
-I am slowly building a website to encourage physicists to learn some fluid mechanics, including resources to get started.  The prototype site may be found [here](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/).
+I am slowly building a website to encourage physicists to learn some fluid mechanics, including resources to get started.  The (somewhat disorganized) prototype site may be found [here](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/).
 
 Some perspectives on applied statistics that have influenced my thinking are assembled [here](https://hydrodynamicstability.github.io/Perspectives-on-Applied-Statistics/).  A slowly growing list of statistics quotes (thoughtful, entertaining, and outrageous) have been collected [here](https://hydrodynamicstability.github.io/statquotes/).
 
