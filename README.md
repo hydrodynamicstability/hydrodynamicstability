@@ -26,6 +26,14 @@ ________________________________________________________________________________
 -- Unnamed teacher at a secret, illegal school for girls, Kabul, Afghanistan
 (quoted in an article by Saeed Shah, *Wall Street Journal*, March 22, 2023)
 
+______________________________________________________________________________________________________________________________________
+
+"We like to think of the universe as simple and comprehensible, but the universe is under no obligation to live up to our expectations."
+
+-- Joel Primack, quoted in "[Crisis in the Cosmos](https://www.discovermagazine.com/the-sciences/crisis-in-the-cosmos)" by Sam Flamsteed, *Discover Magazine* (March 1995), p. 77.
+
+
+
 <!--
 **hydrodynamicstability/hydrodynamicstability** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
