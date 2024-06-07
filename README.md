@@ -1,8 +1,8 @@
 ### Christopher Tong's GitHub site
 
-Data professional; scholar; critic.
+Data professional; physical scientist; scholar; critic.
 
-I have an M.S. in applied statistics and a Ph.D. in physics from Purdue University.  I have been a biostatistician since 2002.  
+I have an M.S. in applied statistics and a Ph.D. in physics from Purdue University.  I was a biostatistician from 2002-2024.  
 
 
 <!--I am a permanent member of the American Physical Society (APS), American Geophysical Union (AGU), International Chinese Statistical Association (ICSA), Mathematical Association of America (MAA), and Society of Industrial and Applied Mathematics (SIAM).  I am currently also a member of the American Meteorological Society (AMS), American Statistical Association (ASA), and American Association for the Advancement of Science (AAAS).-->
