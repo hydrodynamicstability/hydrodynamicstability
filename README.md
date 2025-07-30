@@ -10,6 +10,8 @@ A list of my selected publications and abstracts may be found [here](https://hyd
 
 I am slowly building a website to encourage physicists to learn some fluid mechanics, including resources to get started.  The (somewhat disorganized) prototype site may be found [here](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/).
 
+For a bit of meteorological history, I have scanned an old US Dept. of Commerce Meterological Satellite Report on "Mesoscale Cellular Convection" (author Lester F. Hubert, 1966) and am sharing it with the internet [here](https://github.com/hydrodynamicstability/hubert1966mcc/blob/main/README.md).
+
 Some perspectives on applied statistics that have influenced my thinking are assembled [here](https://hydrodynamicstability.github.io/Perspectives-on-Applied-Statistics/).  A slowly growing list of statistics quotes (thoughtful, entertaining, and outrageous) have been collected [here](https://hydrodynamicstability.github.io/statquotes/).
 
 I consider myself a follower of Daniel, not Jacob, Bernoulli :-)
