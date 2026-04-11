@@ -2,9 +2,9 @@
 
 Data professional; physical scientist; scholar; critic.
 
-I have an M.S. in applied statistics and a Ph.D. in physics from Purdue University.  I was a biostatistician from 2002-2024.  
+I have an M.S. in applied statistics and a Ph.D. in physics from [Purdue University](http://www.purdue.edu).  I was a biostatistician from 2002-2024.  
 
-I am proud to be a member of the American Geophysical Union since 2012.
+I am proud to be a member of the [American Geophysical Union](http://www.agu.org) since 2012.
 
 A list of my selected publications and abstracts may be found [here](https://hydrodynamicstability.github.io/publicationlist/).  However, please note that the vast majority of my work (including code) is proprietary and will never be published.
 
