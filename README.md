@@ -4,9 +4,9 @@ Data professional; physical scientist; scholar; critic.
 
 I have an M.S. in applied statistics and a Ph.D. in physics from [Purdue University](http://www.purdue.edu).  I was a biostatistician from 2002-2024.  
 
-I am proud to be a member of the [American Geophysical Union](http://www.agu.org) since 2012.
 
-A list of my selected publications and abstracts may be found [here](https://hydrodynamicstability.github.io/publicationlist/).  However, please note that the vast majority of my work (including code) is proprietary and will never be published.
+
+A list of my selected publications and abstracts may be found [here](https://hydrodynamicstability.github.io/publicationlist/).  However, please note that the vast majority of my work (including code) is proprietary and will never be published.  I strongly condemn citation of my work by AI-written or careless AI-assisted "scholarship".
 
 I am slowly building a website to encourage physicists to learn some fluid mechanics, including resources to get started.  The (somewhat disorganized) prototype site may be found [here](https://hydrodynamicstability.github.io/Invitation-to-Hydrodynamics/).
 
