@@ -28,13 +28,13 @@ ________________________________________________________________________________
 
 "We like to think of the universe as simple and comprehensible, but the universe is under no obligation to live up to our expectations."
 
--- Joel Primack, quoted in "[Crisis in the Cosmos](https://www.discovermagazine.com/the-sciences/crisis-in-the-cosmos)" by Sam Flamsteed, *Discover Magazine* (March 1995), p. 77.
+-- Joel Primack (1945-2025), quoted in "[Crisis in the Cosmos](https://www.discovermagazine.com/the-sciences/crisis-in-the-cosmos)" by Sam Flamsteed, *Discover Magazine* (March 1995), p. 77.
 
 ______________________________________________________________________________________________________________________________________
 
 "To those whose words I criticize:  this recognition of my debt."
 
--- Arthur F. Bentley, *Linguistic Analysis of Mathematics* (Bloomington, Indiana:  Principia Press, 1932).
+-- Arthur F. Bentley (1870-1957), *Linguistic Analysis of Mathematics* (Bloomington, Indiana:  Principia Press, 1932).
 
 <!--
 **hydrodynamicstability/hydrodynamicstability** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
