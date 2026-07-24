@@ -32,6 +32,12 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________________
 
+"I decided not to worry about whether I would be good or not and just work on understanding better."
+
+-- Hong Wang, 2026 Fields Medalist, quoted in "[Living fully in the math world means threading the needle](https://www.quantamagazine.org/hong-wang-wins-2026-fields-medal-the-third-woman-ever-20260723/)" by Natalie Wolchover, *Quanta Magazine*, July 23, 2026.
+
+______________________________________________________________________________________________________________________________________
+
 "To those whose words I criticize:  this recognition of my debt."
 
 -- Arthur F. Bentley (1870-1957), *Linguistic Analysis of Mathematics* (Bloomington, Indiana:  Principia Press, 1932).
