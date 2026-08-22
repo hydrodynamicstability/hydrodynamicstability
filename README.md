@@ -16,6 +16,7 @@ Some perspectives on applied statistics that have influenced my thinking are ass
 
 I consider myself a follower of Daniel, not Jacob, Bernoulli :-)
 
+童恆德
 ______________________________________________________________________________________________________________________________________
 
 
