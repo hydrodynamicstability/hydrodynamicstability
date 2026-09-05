@@ -31,6 +31,10 @@ ________________________________________________________________________________
 
 -- Joel Primack (1945-2025), quoted in "[Crisis in the Cosmos](https://www.discovermagazine.com/the-sciences/crisis-in-the-cosmos)" by Sam Flamsteed, *Discover Magazine* (March 1995), p. 77.
 
+"We ought to judge the infinite power of Nature with more reverence and a greater recognition of our own ignorance and weakness."
+
+-- Michel de Montaigne (1533-1592), *Essais*, final version, as translated by M. A. Screech (*The Complete Essays*, Penguin, 1991).
+
 ______________________________________________________________________________________________________________________________________
 
 "I decided not to worry about whether I would be good or not and just work on understanding better."
