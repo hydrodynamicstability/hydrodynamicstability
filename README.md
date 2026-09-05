@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 "We ought to judge the infinite power of Nature with more reverence and a greater recognition of our own ignorance and weakness."
 
--- Michel de Montaigne (1533-1592), *Essais*, final version, as translated by M. A. Screech (*The Complete Essays*, Penguin, 1991).
+-- Michel de Montaigne (1533-1592), *Essais*, final version, Book 1, Chapter 27, as translated by M. A. Screech (*The Complete Essays*, Penguin, 1991).
 
 ______________________________________________________________________________________________________________________________________
 
